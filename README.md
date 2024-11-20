@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="readme01.jpeg" width="400">
+  <img src="readme01.png" width="400">
 </p>
 <h1 align="center"> Jogo da memória  🎮 😊 </h1>
 
