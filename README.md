@@ -29,7 +29,9 @@ Link do projeto em funcionamento: https://jogo-da-memoria-five-gamma.vercel.app/
 ## 🚀 Para você rodar o projeto
 ```
 Digite no prompt de comando: git clone https://github.com/TayseRosa/jogo-da-memoria.git
-cd <nome da pasta do projeto>
+Abra a pasta do projeto
+Duplo clique em index.html
+Comece a jogar 🎮
 
 ```
 
