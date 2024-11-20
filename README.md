@@ -1,6 +1,6 @@
 <h1 align="center"> Jogo da memória  🎮 😊 </h1>
 
-<p align="center">Jogo da memória </p>
+<p align="center">Jogo da memória desenvolvido com HTML, CSS E JAVASCRIPT  </p>
 
 <br>
 🚀 Desenvolvedora:
@@ -10,7 +10,7 @@ Tayse Rosa
 <br>
 🟢 Status do projeto: Concluído
 <br>
-Link do projeto em funcionamento: https://jogo-da-memoria-five-gamma.vercel.app/
+🔗 Link do projeto em funcionamento: https://jogo-da-memoria-five-gamma.vercel.app/
 
 ---
 <p align="center">
