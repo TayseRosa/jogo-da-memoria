@@ -8,7 +8,9 @@
 Tayse Rosa
 </a>
 <br>
-🟢 Status do projeto: Iniciando..
+🟢 Status do projeto: Concluído
+<br>
+Link do projeto em funcionamento: https://jogo-da-memoria-five-gamma.vercel.app/
 
 ---
 <p align="center">
